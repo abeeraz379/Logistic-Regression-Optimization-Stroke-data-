@@ -110,23 +110,8 @@ In a clinical screening context, this trade-off is intentional — it is far mor
 
 ---
 
-## Repository Structure
-
-```
-stroke-prediction/
-│
-├── stroke.ipynb                      # Full analysis notebook
-├── README.md                         # This file
-├── insight1_class_imbalance.png      # Visualization — class distribution & sampling
-└── insight2_model_results.png        # Visualization — model comparison & confusion matrix
-```
-
----
 
 ## Tools & Libraries
 
 `Python` · `scikit-learn` · `imbalanced-learn` · `CatBoost` · `Pandas` · `NumPy` · `Matplotlib` · `Seaborn`
 
----
-
-*For full technical details, preprocessing steps, and model code — see the notebook.*
